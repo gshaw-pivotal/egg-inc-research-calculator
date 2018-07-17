@@ -1,10 +1,10 @@
 import decimal
-currentNumberOfSE = 4246689743 #Enter the current number of your soul eggs here
-currentNumberOfPE = 16 #Enter current number of your prophecy eggs here
-currentSoulEggResearchLevel = 90 #Enter the current level of your soul egg research here
+currentNumberOfSE = 0 #Enter the current number of your soul eggs here
+currentNumberOfPE = 0 #Enter current number of your prophecy eggs here
+currentSoulEggResearchLevel = 0 #Enter the current level of your soul egg research here
 currentProphecyEggResearchLevel = 0 #Enter the current level of your prophecy egg research here
-costForNextSoulEggResearchLevel = 2625 #The cost (in gold eggs) for the next level of soul egg (aka soul food) research here
-costForNextProphecyEggResearchLevel = 20000 #The cost (in gold eggs) for the next level of prophecy egg research here
+costForNextSoulEggResearchLevel = 0 #The cost (in gold eggs) for the next level of soul egg (aka soul food) research here
+costForNextProphecyEggResearchLevel = 0 #The cost (in gold eggs) for the next level of prophecy egg research here
 message = "Upgrading "
 
 # Calculations for current bonus
